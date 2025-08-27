@@ -1,4 +1,4 @@
-package com.youtube.farhan.youtube_player
+package com.youtube.farhan.youtube_player_native
 
 import io.flutter.embedding.engine.plugins.FlutterPlugin
 import io.flutter.plugin.common.BinaryMessenger

@@ -3,8 +3,8 @@
 # Run `pod lib lint youtube_player.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'youtube_player'
-  s.version          = '0.0.1'
+  s.name             = 'youtube_player_native'
+  s.version          = '0.0.8'
   s.summary          = 'A Youtube player'
   s.description      = <<-DESC
 A Youtube player

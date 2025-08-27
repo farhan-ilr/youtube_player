@@ -1,4 +1,4 @@
-package com.youtube.farhan.youtube_player
+package com.youtube.farhan.youtube_player_native
 
 import android.content.Context
 import android.os.Bundle

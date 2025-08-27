@@ -1,7 +1,7 @@
-name: youtube_player
+name: youtube_player_native
 description: A Flutter plugin for playing YouTube videos using native WebView on iOS/Android.
-version: 0.0.1
-homepage:
+version: 0.0.8
+homepage: "https://github.com/farhan-ilr/youtube_player"
 
 environment:
   sdk: ^3.8.1
@@ -38,7 +38,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.youtube.farhan.youtube_player
+        package: com.youtube.farhan.youtube_player_native
         pluginClass: YoutubePlayerPlugin
       ios:
         pluginClass: YoutubePlayerPlugin
